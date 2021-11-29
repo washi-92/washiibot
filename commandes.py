@@ -102,4 +102,4 @@ async def inscription(ctx):
 
 
 
-bot.run("ODQ1MDM0MzEzNTk0ODMwODU4.YKbFiA.VqDyQ3y7kACWwMy6Uqv2r__kIGQ") 
+bot.run("process.env.TOKEN" )
